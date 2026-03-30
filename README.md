@@ -1,9 +1,9 @@
 # Digital Literacy Project
 
 ## Student Details
-- Name: [Your Name]
-- Registration Number: [Your Reg No.]
-- Branch: [Your Branch]
+- Name: Amaan Farooqui
+- Registration Number: 25BAI10391
+- Branch: Computer Science(AI&ML)
 - Year: 1st Year B.Tech
 - Course: CSE0001 – Digital Literacy
 
