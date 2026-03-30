@@ -59,3 +59,15 @@ Focused on building a professional online identity.
 - Use of modern digital tools for collaboration  
 
 ---
+
+## Tools & Platforms Used
+
+- Canva – Infographic design  
+- GitHub – Version control and portfolio hosting  
+- LinkedIn – Professional networking  
+- Kaggle – Data science community  
+- HackerRank – Coding practice  
+- Google Forms / Google Sheets – Quiz and collaboration  
+- cybercrime.gov.in – Cybercrime reference  
+
+---
