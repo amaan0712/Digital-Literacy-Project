@@ -16,32 +16,26 @@ The project consists of five tasks covering different aspects of digital literac
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 Digital-Literacy-Project/
-│
 ├── README.md
 ├── Project Report.docx
-│
 ├── task 1- Presentation/
 │ └── infograph.png
-│
 ├── task 2-Portfolio/
 │ ├── Kaggle.png
 │ ├── linkedIn1.png
 │ ├── linkedIn2.png
 │ └── Report.md
-│
 ├── task 3-Platform/
 │ ├── Google form.png
 │ ├── HackerRank.png
 │ ├── HackerRank2.png
 │ ├── Response Sheet.png
 │ └── Report.md
-│
 ├── task 4-Email-Etiquette/
 │ ├── Do's and Don'ts.md
 │ └── Email.docx
-│
 └── task 5-Cybercrime/
 ├── Case Study.pdf
 └── Prevention Checklist.md
